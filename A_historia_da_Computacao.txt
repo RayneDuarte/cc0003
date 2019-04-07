@@ -9,7 +9,7 @@ humana. Uma evoução do primeiro computador mecânico de Hermann Hollerith. O M
 1947- Bell Telephone, Jonh Bardeen e Walter Houser Brattain criam o primeiro transistor do mundo com o objetivo
 de substituir as antigas válvulas termoiônicas usadas nos primeiros dispositivos eletrônicos. Os primeiros modelos
 de transistor não eram muito eficientes, e por isso em 1950 evoluiram para o transistor à junção, sendo por tanto
-mais resistentes e duráveis. A invenção do transistor tornou possível mais tarde a criação dos chips ou circuitos integrados.
+mais resistentes e duráveis. A invenção do transistor tornou possível mais tarde a criação dos chips ou circuitos integrados.      
 
 
 1958- Jack Kilby da Texas Instruments e Robert Noyce criam o primeiro circuito integrado do mundo e apresentam
