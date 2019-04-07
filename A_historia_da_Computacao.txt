@@ -1,15 +1,37 @@
--200 A.C. -> M·quina de AnticÌtera. 
+Ôªø1936- O matem√°tico brit√¢nico Alan Turing (1912-1954), publica um artigo de refer√™ncia sobre um dispositivo te√≥rico que mais tarde veio se tornar a base para a cria√ß√£o dos computadores digitais modernos.
 
--1642 -> A primeira calculadora do mundo baseado em seus algoritmos foi criada. Ela foi criada por Pascal, que desejava desenvolver uma m·quina que realizasse as 4 operaÁıes b·sicas da matem·tica. PorÈm, ele sÛ conseguir fazer uma capaz de somar e subtratir. Ela funcionava atravÈs de rodas interligadas que giravam durante a realizaÁ„o dos c·lculos para obter os resultados. A calculadora de Pascal foi uma das primeiras coisas que esboÁavam a computaÁ„o: era baseada em algoritmos, realizava c·lculos. Apesar de ser bastante primitiva, foi muito importante.
 
--1847 -> O matem·tico inglÍs George Boole criou o primeiro sistema bin·rio, o que teve grande relev‚ncia possibilitando a criaÁ„o de processadores que tranformavam zeros e uns em informaÁ„o. Um exemplo desse tipo de processador foi criado pelo Herman Hollerith que criou o processador de dados eletromec‚nico conhecido como cart„o perfurado e fundou a empresa percursora da IBM.
+1944- √â criado o primeiro computador eletromec√¢nico capaz de efetuar c√°lculos mais complexos sem a interfer√™ncia
+humana. Uma evou√ß√£o do primeiro computador mec√¢nico de Hermann Hollerith. O Mark I como era chamado, mede 15 m x
+2,5 m e demora 11 segundos para executar um c√°lculo. 
 
--1945 -> Segundo o Computer History Museum, o inventor alem„o Konrad Zuse comeÁou a desenvolver o Plan Calculus em 1945 - a primeira linguagem de programaÁ„o que utilizava algoritmos - e criou tambÈm o primeiro computador program·vel durante os anos 40. A matem·tica Grace Hopper tambÈm comeÁava a trabalhar em uma linguagem de programÁ„o baseada em palavras que foi chamada inicialmente de "A-0", mas, mais tarde, teve seu nome mudado para COBOL. AtÈ hoje, utiliza-se linguagens que foram inspiradas pelos modelos do COBOL, utilizando palavras como comandos e sendo baseadas em algoritmos.
 
--1960 -> Durante a Guerra Fria, pesquisas militares trabalhavam em meios de comunicaÁ„o e transferÍncia de informaÁ„o eficientes. Dessa forma surgiu a forma mais primitiva da Internet - uma rede de computadores chamada ARPANET, inspirado por um projeto do pesquisados Leonard Kleinrock do MIT. O primeiro "nÛ" da Internet foi instalado em uma universidade em Los Angeles e expandido ligando computadores em quatro universidades na CalifÛrnia e Utah.
+1947- Bell Telephone, Jonh Bardeen e Walter Houser Brattain criam o primeiro transistor do mundo com o objetivo
+de substituir as antigas v√°lvulas termoi√¥nicas usadas nos primeiros dispositivos eletr√¥nicos. Os primeiros modelos
+de transistor n√£o eram muito eficientes, e por isso em 1950 evoluiram para o transistor √† jun√ß√£o, sendo por tanto
+mais resistentes e dur√°veis. A inven√ß√£o do transistor tornou poss√≠vel mais tarde a cria√ß√£o dos chips ou circuitos integrados.
 
--1970s -> O inicio dos computadores pessoais foi em 1970. O Kenbak-1 foi o primeiro computador pessoal e foi desenvolvido por John Blankenbaker em 1971 na sua prÛpria garagem. Kenbak-1 custava US$ 750 e usava interruptores no lugar de um teclado. AlÈm disso, sua memÛria era capaz de armazenar apenas 256 caracteres. Blankenbaker vendeu 40 unidades do Kenbak-1 e descontinuou sua produÁ„o. Em 1973, quando o Kenbak-1 parou de ser produzido, surgiu o Micral N, um computador pessoal francÍs que incorporava uma tecnologia de economia de espaÁo e custava US$ 1700. Esses foram os primÛrdios dos computadores pessoais como os conhecemos hoje, a contribuiÁ„o desses primeiros modelos, juntamente com a evoluÁ„o da eletrÙnico foram muito importantes no desenvolvimentos dos computadores modernos.
 
--1990 -> O cientista da computaÁ„o Tim Berners-Lee criou a World Wide Web, enquanto trabalhava em um laboratÛrio suÌÁo em 1990. A WWW foi basicamente a percusora da internet como a conhecemos e foi tambÈm Berners-Lee que introduziu o uso de URLs e o uso do protocolo de transferÍncia de hipertexto - o HTML. Ainda no mesmo ano, Berners-Lee desenvolveu o primeiro browser e o primeiro website do mundo. Suas contribuiÁıes popularizaram a internet e tornaram mais f·cil o uso de computadores pessoais por pessoas leigas e que nunca tiveram um treinamento tecnico de computaÁ„o.
+1958- Jack Kilby da Texas Instruments e Robert Noyce criam o primeiro circuito integrado do mundo e apresentam
+o funcionamento do mesmo em 12 de setembro do mesmo ano. A tecnologia dos circuitos integrados ou chips, tornou
+poss√≠vel a cria√ß√£o de praticamente todos os equipamentos eletr√¥nicos que conhecemos hoje, desde um simples rel√≥gio
+digital de pulso, at√© TV's, celulares, videogames, computadores, entre diversos outros.
 
--1998 -> A fundaÁ„o do Google.
+
+1961- O f√≠sico Joseph Carl Robnett Licklider cria a rede Arpanet, considerada como a pioneira no que hoje √© conhecido como "computa√ß√£o em nuvem." Inicialmente o objetivo era unir as bases militares com os departamentos pesquisa do governo americano. Mas o conceito de computa√ß√£o em nuvem evoluiu e hoje √© respons√°vel pelo armaze-
+namento e compartilhamento de arquivos via internet no mundo inteiro. Entre os servi√ßos dispon√≠veis atualmente
+que uso dessa tecnologia, podemos destacar o Gdrive e o 4Shared, por exemplo.
+
+
+1974 - A Intel desenvolve o primeiro microprocessador 8080, que deu origem aos microcomputadores.
+
+
+1995- Randy Conrads cria a primeira rede social do mundo na web. O site classmates.com foi muito utilizado no Canad√° e nos Estados Unidos e tinha como objetivo conectar amigos do col√©gio ou da faculdade.
+
+
+1998 -> A funda√ß√£o do Google, uma gigante l√≠der mundial no desenvolvimento de softwares e tecnologias que revolucionaram o in√≠cio do s√©culo XX. Dentre essas podemos destacar o servi√ßo de localiza√ß√£o Google Maps,
+o motor de busca que leva o nome da empresa, o Google Search, o sistema operacional Android que mudou radicalmente
+o conceito dos smartphones, transformando-os em verdadeiros e poderosos computadores port√°teis, al√©m de muitos outros servi√ßos como o Gmail, YouTube, Gdrive, etc.
+
+
+2000- Lan√ßamento do Pentium 4. Chega a 500 milh√µes o n√∫mero de computadores pessoais em todo o mundo.
